@@ -10,11 +10,7 @@ sass:
 
 # Collection Settings
 collections:
-  projects:
-    output: false
-  sections:
-    output: false
-  posts:
+  recipes:
     output: true
 
 defaults:
@@ -23,6 +19,7 @@ defaults:
     type: "recipes"
   values:
     permalink: "/:name/"
+    layout: "recipe"
     
 
 # Plugin Settings

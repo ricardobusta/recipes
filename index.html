@@ -5,4 +5,16 @@ title: Home
 
 Hello World
 
-Index
+<h1>Recipes</h1>
+<div>
+    <ul>
+        {% assign ordered_recipes = site.recipes | sort: "date" | reverse %}
+        {% for recipe in ordered_recipes %}
+        <li>
+            <div>
+                {% include recipe-entry.html data=recipe %}
+            </div>
+        </li>
+        {% endfor %}
+    </ul>
+</div>

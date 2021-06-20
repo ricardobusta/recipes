@@ -1,0 +1,33 @@
+---
+layout: compress
+---
+
+{% assign recipe = site.recipes | where: 'title', page.title | first %}
+
+<h1>{{ recipe.title }}</h1>
+
+<img src="{{ recipe.img-url }}" width="100px" />
+
+{% for description in recipe.description %}
+<p>{{description}}</p>
+{% endfor %}
+
+<h2>Equipamento</h2>
+
+<ul>
+    {% for tool in recipe.tools %}
+    <li> {{ tool }} </li>
+    {% endfor %}
+</ul>
+
+<h2>Ingredientes</h2>
+
+<ul>
+    {% for ingredient in recipe.ingredients %}
+    <li>{{ ingredient[0] }} - {{ ingredient[1]}}</li>
+    {% endfor %}
+</ul>
+
+<h2>Preparing</h2>
+
+<p>{{ content }}</p>
