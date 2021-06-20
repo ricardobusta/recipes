@@ -1,6 +1,7 @@
 # Site Settings
 title: Busta's Recipes
-url: https://busta.dev/recipes
+url: https://busta.dev
+baseurl: /recipes
 
 # Build Settings
 permalink: "/blog/:year/:month/:day/:title/"
@@ -18,9 +19,8 @@ defaults:
     path: ""
     type: "recipes"
   values:
-    permalink: "recipes/:name/"
+    permalink: "/:name/"
     layout: "recipe"
-    
 
 # Plugin Settings
 plugins:
