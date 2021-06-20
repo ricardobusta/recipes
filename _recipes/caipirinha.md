@@ -1,5 +1,5 @@
 ---
-title: Brigadeiro
+title: Caipirinha
 tags: ["drink"]
 img-url: ""
 description: ["Caipirinha lorem ipsum"]
