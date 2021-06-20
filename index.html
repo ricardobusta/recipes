@@ -3,12 +3,10 @@ layout: default
 title: Home
 ---
 
-Hello World
-
 <h1>Recipes</h1>
 <div>
     <ul>
-        {% assign ordered_recipes = site.recipes | sort: "date" | reverse %}
+        {% assign ordered_recipes = site.recipes | sort: "title" %}
         {% for recipe in ordered_recipes %}
         <li>
             <div>

@@ -1,10 +1,12 @@
 ---
-layout: compress
+layout: default
 ---
 
 {% assign recipe = site.recipes | where: 'title', page.title | first %}
 
 <h1>{{ recipe.title }}</h1>
+
+<p><a href="../">home</a></p>
 
 <img src="{{ recipe.img-url }}" width="100px" />
 
