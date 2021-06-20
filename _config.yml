@@ -1,0 +1,34 @@
+# Site Settings
+title: Busta's Recipes
+url: https://busta.dev/recipes
+
+# Build Settings
+permalink: "/blog/:year/:month/:day/:title/"
+sass:
+  sass_dir: "_sass"
+  style: compressed
+
+# Collection Settings
+collections:
+  projects:
+    output: false
+  sections:
+    output: false
+  posts:
+    output: true
+
+defaults:
+- scope:
+    path: ""
+    type: "recipes"
+  values:
+    permalink: "/:name/"
+    
+
+# Plugin Settings
+plugins:
+  - jekyll-paginate
+
+paginate: 6
+paginate_path: "/page:num/"
+highlighter: rouge

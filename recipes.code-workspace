@@ -1,0 +1,29 @@
+{
+    "folders": [
+        {
+            "path": ".",
+            "name": "Page"
+        },
+    ],
+    "settings": {
+        "files.eol": "\n",
+        "files.encoding": "utf8",
+        "files.autoSave": "afterDelay",
+        "files.autoSaveDelay": 1000,
+        "editor.formatOnSave": true,
+        "editor.detectIndentation": false,
+        "editor.tabSize": 4,
+        "editor.tabCompletion": "on",
+        "editor.insertSpaces": true,
+        "html.suggest.html5": true,
+        "html.autoClosingTags": false,
+        "html.validate.scripts": true,
+        "html.validate.styles": true,
+        "html.format.indentInnerHtml": true,
+        "scss.completion.completePropertyWithSemicolon": true,
+        "scss.completion.triggerPropertyValueCompletion": true,
+        "ruby.format": "rufo",
+        "ruby.intellisense": "rubyLocate",
+        "ruby.codeCompletion": "rcodetools"
+    },
+}
