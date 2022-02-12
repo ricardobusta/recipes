@@ -1,6 +1,6 @@
 ---
 title: Brigadeiro
-tags: ["sweet", "chocolate"]
+tags: ["sweet", "chocolate", "brazilian"]
 img-url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Brigadeiro.jpg/1280px-Brigadeiro.jpg"
 description: ["This is a brigadeiro recipe.", "Another paragraph"]
 tools: ["Panela anti-aderente", "Espátula de silicone", "Vasilha pequena"]
