@@ -4,7 +4,7 @@ tags: ["beans", "brazilian"]
 img-url: "https://www.comidaereceitas.com.br/img/sizeswp/1200x675/2021/07/feijoada_veveta.jpg"
 description: ["This is a feijoada recipe.", "Very popular in Brazil."]
 tools: ["Pressure cooker", "Big pan", "Cutting board"]
-ingredients: [["Black beans", "500g"], ["Bacon cubes", "150g"], ["Pork Meat Cubes", "500g"], ["Brazilian or Italian Sausage", "200g"]], ["Meat broth", "2 teaspoon/7g"], ["Chive", "1 unit"], ["Garlic", "4 cloves"], ["Onion", "2 big"], ["Bayleaf", "3-5 leaves"], ["Orange Juice", "1 fruit"], ["Cachaça", "40ml"], ["Salt", "*"], ["Black pepper", "*"], ["Olive oil", "*"]]
+ingredients: [["Black beans", "500g"], ["Bacon cubes", "150g"], ["Pork Meat Cubes", "500g"], ["Brazilian or Italian Sausage", "200g"], ["Meat broth", "2 teaspoon/7g"], ["Chive", "1 unit"], ["Garlic", "4 cloves"], ["Onion", "2 big"], ["Bayleaf", "3-5 leaves"], ["Orange Juice", "1 fruit"], ["Cachaça", "40ml"], ["Salt", "*"], ["Black pepper", "*"], ["Olive oil", "*"]]
 ---
 
 ## Feijoada
