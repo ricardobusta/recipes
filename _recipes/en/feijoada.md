@@ -18,8 +18,8 @@ Add the orange juice and the meat broth to the pan, and mix. Add the green chive
 
 Add the beans to the mixture, and slowly add the bean broth. Keep cooking until it reaches the desired consistency. Usually the broth is thick.
 
-Then it's done! Serve with some [Arroz](arroz), [Farofa](farofa) and [Couve](couve) (or salad). Add some orange slices for better presentation.
-Have some [Caipirinha](caipirinha) as well!
+Then it's done! Serve with some [Arroz](../arroz-branco), [Farofa](../farofa) and [Couve](../couve) (or salad). Add some orange slices for better presentation.
+Have some [Caipirinha](../../br/caipirinha) as well!
 
 This portion can serve many people (Maybe 10), so if you intend to cook for a smaller audience, divide the recipe values proportionally.
 
