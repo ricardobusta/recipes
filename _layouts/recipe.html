@@ -4,51 +4,61 @@ layout: default
 
 {% assign recipe = site.recipes | where: 'title', page.title | first %}
 
-<h1>{{ recipe.title }}</h1>
-<p>Recipe Language: {% include language-flag.html language=recipe.language %}</p>
+</br>
+<div class="uk-card uk-card-body uk-card-default">
+    <h1>{{ recipe.title }}</h1>
+    <p>Recipe Language: {% include language-flag.html language=recipe.language %}</p>
 
-<p><a href="../../">home</a></p>
+    <img data-src="{{ recipe.img-url }}" uk-img />
 
-<img src="{{ recipe.img-url }}" width="200px" />
-
-{% for description in recipe.description %}
-<p>{{description}}</p>
-{% endfor %}
-
-<h2>
-    {% case recipe.language %}
-    {% when "br" %}
-    Equipamento
-    {% when "en" %}
-    Tools
-    {% else %}
-    Equipment
-    {% endcase %}
-</h2>
-
-<ul>
-    {% for tool in recipe.tools %}
-    <li> {{ tool }} </li>
+    {% for description in recipe.description %}
+    <p>{{description}}</p>
     {% endfor %}
-</ul>
+</div>
+</br>
 
-<h2>
-    {% case recipe.language %}
-    {% when "br" %}
-    Ingredientes
-    {% when "en" %}
-    Ingredients
-    {% else %}
-    Ingredients
-    {% endcase %}
-</h2>
+<div class="uk-card uk-card-body uk-card-default">
+    <h2>
+        {% case recipe.language %}
+        {% when "br" %}
+        Equipamento
+        {% when "en" %}
+        Tools
+        {% else %}
+        Equipment
+        {% endcase %}
+    </h2>
+    <ul>
+        {% for tool in recipe.tools %}
+        <li> {{ tool }} </li>
+        {% endfor %}
+    </ul>
+</div>
+</br>
 
-<ul>
-    {% for ingredient in recipe.ingredients %}
-    <li>{{ ingredient[0] }} - {{ ingredient[1]}}</li>
-    {% endfor %}
-</ul>
+<div class="uk-card uk-card-body uk-card-default">
+    <h2>
+        {% case recipe.language %}
+        {% when "br" %}
+        Ingredientes
+        {% when "en" %}
+        Ingredients
+        {% else %}
+        Ingredients
+        {% endcase %}
+    </h2>
+    <ul>
+        {% for ingredient in recipe.ingredients %}
+        <div class="uk-grid-small" uk-grid>
+            <div class="uk-width-expand" uk-leader="fill: .">{{ ingredient[0] }}</div>
+            <div>{{ ingredient[1]}}</div>
+        </div>
+        {% endfor %}
+    </ul>
+</div>
+</br>
 
-<h2>Preparing </h2>
-
-<p>{{ content }}</p>
+<div class="uk-card uk-card-body uk-card-default">
+    <p>{{ content }}</p>
+</div>
+</br>
