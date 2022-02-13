@@ -3,7 +3,7 @@ title: Feijoada
 tags: ["beans", "brazilian"]
 language: "en"
 img-url: "https://www.comidaereceitas.com.br/img/sizeswp/1200x675/2021/07/feijoada_veveta.jpg"
-description: ["This is a feijoada recipe.", "Very popular in Brazil."]
+description: ["The name feijoada comes from feijão, 'bean' in Portuguese. It is widely prepared in the Portuguese-speaking world, with slight variations.", "Many modern variants of the dish are based on feijoada recipes popularized in the Brazilian regions of Rio de Janeiro, São Paulo, Recife, and Salvador. In Brazil, feijoada (feijoada brasileira) is often considered a national dish. <a href='https://en.wikipedia.org/wiki/Feijoada'>[wikipedia]</a>"]
 tools: ["Pressure cooker", "Big pan", "Cutting board"]
 ingredients: [["Black beans", "500g"], ["Bacon cubes", "150g"], ["Pork Meat Cubes", "500g"], ["Brazilian or Italian Sausage", "200g"], ["Meat broth", "2 teaspoon/7g"], ["Chive", "1 unit"], ["Garlic", "4 cloves"], ["Onion", "2 big"], ["Bayleaf", "3-5 leaves"], ["Orange", "2"], ["Cachaça", "40ml"], ["Salt", "*"], ["Black pepper", "*"], ["Olive oil", "*"]]
 ---
