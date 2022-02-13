@@ -1,5 +1,5 @@
 ---
-title: Arroz Branco
+title: Arroz Branco (White Rice)
 tags: ["rice", "brazilian"]
 language: "en"
 img-url: ""

@@ -1,11 +1,11 @@
 ---
-title: Farofa
+title: Farofa (Cassava Flour)
 tags: ["farofa", "brazilian"]
 language: "en"
 img-url: ""
 description: ["This is a farofa recipe."]
 tools: [""]
-ingredients: [["Farinha de Mandioca", "*"], ["Onion", "1"], ["Garlic", "1"], ["Grounded paprika","*"], ["Meat broth", "1 teaspoon/3.5g"], ["Salt","*"], ["Pepper", "*"], ["Butter", "*"]]
+ingredients: [["Farinha de Mandioca (Cassava Flour)", "*"], ["Onion", "1"], ["Garlic", "1"], ["Grounded paprika","*"], ["Meat broth", "1 teaspoon/3.5g"], ["Salt","*"], ["Pepper", "*"], ["Butter", "*"]]
 ---
 
 ## Farofa
