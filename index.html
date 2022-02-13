@@ -6,7 +6,18 @@ title: Home
 <h1>Recipes</h1>
 <div>
     <ul>
-        {% assign ordered_recipes = site.recipes | sort: "title" %}
+        <h2>Português:</h2>
+        {% assign ordered_recipes = site.recipes | sort: "title" | where: "language", "br" %}
+        {% for recipe in ordered_recipes %}
+        <li>
+            <div>
+                {% include recipe-entry.html data=recipe %}
+            </div>
+        </li>
+        {% endfor %}
+
+        <h2>English:</h2>
+        {% assign ordered_recipes = site.recipes | sort: "title" | where: "language", "en" %}
         {% for recipe in ordered_recipes %}
         <li>
             <div>

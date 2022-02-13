@@ -1,6 +1,7 @@
 ---
 title: Feijoada
 tags: ["beans", "brazilian"]
+language: "en"
 img-url: "https://www.comidaereceitas.com.br/img/sizeswp/1200x675/2021/07/feijoada_veveta.jpg"
 description: ["This is a feijoada recipe.", "Very popular in Brazil."]
 tools: ["Pressure cooker", "Big pan", "Cutting board"]
@@ -29,4 +30,4 @@ Some ingredients are available in Berlin, while others require replacement.
 
 The black beans can be purchased at [Latino Point](https://latinopoint.de/de/), usually a 1kg bag.
 
-The pork meat in the original Feijoada is usually a bunch of different pork parts, like ears, feet, etc. As a replacement, we're using goulash style meat cubes, bacon and italian sausages (the non spicy one). All these ingredients and cachaça can be found at a big Kaufland.
+The pork meat in the original Feijoada is usually a bunch of different pork parts, like ears, feet, etc. As a replacement, we're can use goulash style meat cubes, bacon and italian sausages (the non spicy one). All these ingredients and cachaça can be found at a big Kaufland.

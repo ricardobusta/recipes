@@ -19,7 +19,7 @@ defaults:
     path: ""
     type: "recipes"
   values:
-    permalink: "/:name/"
+    permalink: "/:path/"
     layout: "recipe"
 
 # Plugin Settings

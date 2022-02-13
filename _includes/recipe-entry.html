@@ -1,3 +1,14 @@
 <div>
-    <a href="{{  site.baseurl }}{{ include.data.url }}">recipe: {{ include.data.title }}</a>
+    <a href="{{  site.baseurl }}{{ include.data.url }}">
+        {% case include.data.language %}
+        {% when "br" %}
+        Receita:
+        {% when "en" %}
+        Recipe:
+        {% else %}
+        Recipe:
+        {% endcase %}
+        {{ include.data.title }}
+        {% include language-flag.html language=include.data.language %}
+    </a>
 </div>

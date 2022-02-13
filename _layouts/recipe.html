@@ -5,16 +5,26 @@ layout: default
 {% assign recipe = site.recipes | where: 'title', page.title | first %}
 
 <h1>{{ recipe.title }}</h1>
+<p>Recipe Language: {% include language-flag.html language=recipe.language %}</p>
 
-<p><a href="../">home</a></p>
+<p><a href="../../">home</a></p>
 
-<img src="{{ recipe.img-url }}" width="100px" />
+<img src="{{ recipe.img-url }}" width="200px" />
 
 {% for description in recipe.description %}
 <p>{{description}}</p>
 {% endfor %}
 
-<h2>Equipamento</h2>
+<h2>
+    {% case recipe.language %}
+    {% when "br" %}
+    Equipamento
+    {% when "en" %}
+    Tools
+    {% else %}
+    Equipment
+    {% endcase %}
+</h2>
 
 <ul>
     {% for tool in recipe.tools %}
@@ -22,7 +32,16 @@ layout: default
     {% endfor %}
 </ul>
 
-<h2>Ingredientes</h2>
+<h2>
+    {% case recipe.language %}
+    {% when "br" %}
+    Ingredientes
+    {% when "en" %}
+    Ingredients
+    {% else %}
+    Ingredients
+    {% endcase %}
+</h2>
 
 <ul>
     {% for ingredient in recipe.ingredients %}
@@ -30,6 +49,6 @@ layout: default
     {% endfor %}
 </ul>
 
-<h2>Preparing</h2>
+<h2>Preparing </h2>
 
 <p>{{ content }}</p>
