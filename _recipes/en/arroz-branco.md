@@ -5,6 +5,7 @@ language: "en"
 img-url: ""
 description: ["", ""]
 tools: [""]
+status: "hidden"
 ingredients: [["", ""]]
 ---
 

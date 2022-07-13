@@ -25,6 +25,7 @@ title: Home
     {% assign ordered_recipes = site.recipes | sort: "title" | where: "language", "en" %}
     <ul class="uk-list uk-list-divider">
         {% for recipe in ordered_recipes %}
+        {% if recipe.status != "hidden" %}
         <li>
             <div>
                 {% include recipe-entry.html data=recipe %}
