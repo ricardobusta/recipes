@@ -3,7 +3,7 @@ title: Brigadeiro
 language: "br"
 tags: ["sweet", "chocolate", "brazilian"]
 img-url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Brigadeiro.jpg/1280px-Brigadeiro.jpg"
-description: ["This is a brigadeiro recipe.", "Another paragraph"]
+description: ["Esta é uma receita típica de brigadeiro.", "Another paragraph"]
 tools: ["Panela anti-aderente", "Espátula de silicone", "Vasilha pequena"]
 ingredients: [["leite condensado", "1 lata"], ["Achocolatado em Pó", "3 a 5 colheres"], ["manteiga", "1 colher"], ["Confeito de chocolate", ""]]
 ---

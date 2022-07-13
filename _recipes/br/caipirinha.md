@@ -3,7 +3,7 @@ title: Caipirinha
 language: "br"
 tags: ["drink", "brazilian"]
 img-url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/15-09-26-RalfR-WLC-0048.jpg/800px-15-09-26-RalfR-WLC-0048.jpg"
-description: ["Caipirinha lorem ipsum"]
+description: ["Caipirinha"]
 tools: ["Faca", "Espremedor de limão", "Canudo", "Copo"]
 ingredients: [["Limão verde", "1"], ["Gelo", ""], ["Açúcar", "1½ colher"], ["Água", ""], ["Cachaça"]]
 ---
