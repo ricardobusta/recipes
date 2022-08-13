@@ -5,6 +5,7 @@ title: Home
 </br>
 {% include info.html %}
 </br>
+<!--
 <div class="uk-card uk-card-body uk-card-default">
     <h1>🇧🇷 Receitas em Português:</h1>
     {% assign ordered_recipes = site.recipes | sort: "title" | where: "language", "br" %}
@@ -19,9 +20,10 @@ title: Home
     </ul>
 </div>
 <br />
+-->
 
 <div class="uk-card uk-card-body uk-card-default">
-    <h1>🇺🇸 English Recipes:</h1>
+    <!--<h1>🇺🇸 English Recipes:</h1>-->
     {% assign ordered_recipes = site.recipes | sort: "title" | where: "language", "en" %}
     <ul class="uk-list uk-list-divider">
         {% for recipe in ordered_recipes %}
