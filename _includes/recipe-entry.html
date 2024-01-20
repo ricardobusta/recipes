@@ -1,5 +1,5 @@
 <div>
     <a href="{{  site.baseurl }}{{ include.data.url }}">
-        {{ include.data.title }}
+        {% if recipe.status == "wip" %}🚧(WIP) {% endif %}{{ include.data.title }}
     </a>
 </div>
