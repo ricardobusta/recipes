@@ -3,7 +3,7 @@ title: Caipirinha
 language: "en"
 tags: ["limes", "drink", "brazilian"]
 img-url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/15-09-26-RalfR-WLC-0048.jpg/800px-15-09-26-RalfR-WLC-0048.jpg"
-description: ["Caipirinha"]
+description: ["Caipirinha drink, most traditional brazilian cocktail"]
 tools: ["Knife", "Lime/Lemon squeezer", "Straw", "Cup"]
 ingredients: [["Green lime", "1"], ["Ice cubes", ""], ["Sugar", "1½ spoon"], ["Water", ""], ["Cachaça"]]
 ---

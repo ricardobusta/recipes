@@ -3,7 +3,7 @@ title: Brigadeiro
 language: "en"
 tags: ["sweet", "chocolate", "brazilian"]
 img-url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Brigadeiro.jpg/1280px-Brigadeiro.jpg"
-description: ["This is a brigadeiro recipe."]
+description: ["This is a brigadeiro recipe.", "Main sweet present in brazilian birthday parties and weddings."]
 tools: ["Non-stick pan", "Silicone spatula", "Small bowl"]
 ingredients: [["sweetened condensed milk", "1 can"], ["Powdered chocolate", "2-3 spoons"], ["butter", "1 spoon"], ["Chocolate sprinkles", ""]]
 ---

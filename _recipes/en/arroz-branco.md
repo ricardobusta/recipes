@@ -2,10 +2,10 @@
 title: Arroz Branco (White Rice)
 tags: ["rice", "brazilian"]
 language: "en"
-img-url: ""
-description: ["", ""]
-tools: [""]
-status: "hidden"
+img-url: "https://www.receitasnestle.com.br/sites/default/files/srh_recipes/7c44045d2e8577819cb76b2b404902dd.jpg"
+description: ["Regular rice used to accompany other foods in Brazil.", ""]
+tools: ["Pan with a lid"]
+status: ""
 ingredients: [["Rice", "1 cup"], ["Salt"], ["Onion"], ["Garlic"]]
 ---
 

@@ -3,8 +3,8 @@ title: Beijinho
 language: "en"
 tags: ["sweet", "coconut", "brazilian"]
 img-url: "https://upload.wikimedia.org/wikipedia/commons/c/cd/Beijinho.jpg"
-description: ["This is a beijinho recipe."]
-tools: ["Non-stick pan", "Silicone spatula", "Small bowl"]
+description: ["This is a beijinho recipe.", "Common sweet in Brazil, served in birthday parties alongside to Brigadeiros."]
+tools: ["Non-sticking pan", "Silicone spatula", "Small bowl"]
 ingredients: [["sweetened condensed milk", "1 can"], ["Coconut rasps", "1 cup"], ["butter", "1 spoon"], ["Cloves"]]
 ---
 

@@ -2,8 +2,8 @@
 title: Couve Refogada (Sauteed Kale Leaf)
 tags: ["brazilian"]
 language: "en"
-img-url: ""
-description: ["This is a farofa recipe.", "Another paragraph"]
+img-url: "https://www.receiteria.com.br/wp-content/uploads/couve-refogada.jpeg"
+description: ["Sauted cabbage recipe to serve alongside other dishes."]
 tools: [""]
 ingredients: [["Cabbage"], ["Butter"], ["Garlic"], ["Bay leaf"]]
 ---
