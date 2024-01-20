@@ -8,13 +8,15 @@ tools: ["Non sticking pan", "Silicon spatula"]
 ingredients: [["Ripe bananas (The ones with dark spots already)", "4"], ["White Sugar", "200ml cup"], ["Water", "200ml cup"], ["Cinnamon (Grounded)","14-28g / 1-2 spoons"], ["Cloves", "Optional"]]
 ---
 
+## Banana Jam
+
 Cut bananas into circular slices (or the shape of your liking)
 
 Put sugar in the pan until it turns into soft caramel. Keep mixing so it does not burn.
 
 Once sugar is caramelized, throw in the water mixed with cinnamon and mix. Wait the caramel rocks to melt again.
 
-Once it's mostly meled, throw in the banana slices. And as optional flavouring, add Cloves.
+Once it's mostly melted, throw in the banana slices. And as optional flavouring, add Cloves.
 
 Now cook until the banana has browned a bit and has absorbed caramel. 
 

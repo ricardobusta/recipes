@@ -5,8 +5,7 @@ language: "en"
 img-url: "https://cdn.shopify.com/s/files/1/0957/5960/articles/shutterstock_1865502121_1200x.jpg?v=1636675321"
 description: ["Delicious cheesecake with jam topping."]
 tools: ["Cake Mold", "Blender"]
-ingredients: [["Butter cookies", "200g"], ["Melted Butter", "100g"], ["Cream Cheese","400g"]
-, ["Condensed Milk with Sugar","1 can ~ 400g"], ["Eggs","3"], ["Fruit Jam","300g"]]
+ingredients: [["Butter cookies", "200g"], ["Melted Butter", "100g"], ["Cream Cheese","400g"], ["Condensed Milk with Sugar","1 can ~ 400g"], ["Eggs","3"], ["Fruit Jam","300g"]]
 ---
 
 ## Crust
