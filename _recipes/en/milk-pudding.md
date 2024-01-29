@@ -1,5 +1,5 @@
 ---
-title: Milk Pudding with Caramel (Pudim de Leite)
+title: Milk Pudding/Flan with Caramel (Pudim de Leite)
 language: "en"
 tags: ["milk", "pudding", "flan"]
 img-url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTutjshx638U0IxgzQ0LCJV9n_Kn7HiAalCUg&usqp=CAU"
@@ -23,6 +23,8 @@ Add 1 cup of sugar to a pan, and heat it until it melts. Once it browns a bit an
 ### Assemble
 
 Add the liquid caramel to the cake mold, and wait for it to harden. Once it's not liquid enough, pour the flan mix.
-Bake in the oven at around 180C for 30~45 minutes. You know it's ready by poking it with a fork.
+Bake in the oven at around 180C for 30~45 minutes. You might need to put the mold inside a bigger container filled with water for better results.
 
-Let it cool, and you can un-mold it into a plate for serving. 
+You know it's ready by poking it with a fork. Should still be soft, but the fork should be mostly clean.
+
+Let it cool, and you can un-mold it into a plate for serving. If the caramel is solidified, you might dip it into warm water to melt it a bit.
