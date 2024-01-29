@@ -5,7 +5,7 @@ tags: ["chicken"]
 img-url: ""
 description: ["Delicious pie filled with chicken"]
 tools: ["Pan"]
-status: "wip"
+status: ""
 ingredients: [["section", "Stuffing"], 
               ["Chicken Breast", "500g"], ["Chicken Broth", "1/2L"], ["Oil", "4 spoons"], ["Smashed Garlic", "1 clove"], 
               ["Diced Onion", "1 big"], ["Skinless Tomato", "3"], ["Peas", "1 teacup"], ["Salt", "to taste"], 
