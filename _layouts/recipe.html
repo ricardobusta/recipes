@@ -47,10 +47,15 @@ layout: default
     </h2>
     <ul>
         {% for ingredient in recipe.ingredients %}
-        <div class="uk-grid-small" uk-grid>
-            <div class="uk-width-expand" uk-leader="fill: .">{{ ingredient[0] }}</div>
-            <div>{{ ingredient[1]}}</div>
-        </div>
+            {% assign key = ingredient[0] | downcase %}
+            {% if key == "section" %}
+                <h3>{{ ingredient[1] }}</h3>
+            {% else %}
+                <div class="uk-grid-small" uk-grid>
+                    <div class="uk-width-expand" uk-leader="fill: .">{{ ingredient[0] }}</div>
+                    <div>{{ ingredient[1] }}</div>
+                </div>
+            {% endif %}
         {% endfor %}
     </ul>
 </div>
